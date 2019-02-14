@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int greenBottles = 10;
+    cout << "There were <<  endl;
+    return 0;
+}
